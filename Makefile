@@ -1,0 +1,1 @@
+ g++ -o main Navigation.cpp graphicsStuff.cpp main.cpp
